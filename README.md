@@ -1,7 +1,5 @@
 # FiSahel Latin/Persian Font
-##
-فونت فارسی/انگلیسی فی‌ساحل
-## 
+  ## فونت فارسی/انگلیسی فی‌ساحل   
 An open source Latin/Persian Font based on Sahel and FiraSans fonts
 
 فونت فارسی/انگلیسی فی‌ساحل؛ ترکیب فونت فارسی ساحل ساخته‌ی صابر راستی‌کردار و فونت انگلیسی (لاتین) فیرا سنس
